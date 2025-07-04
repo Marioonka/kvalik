@@ -316,3 +316,6 @@ sudo reboot
 
 sudo apt install git
 git clone https://github.com/CrystalCharin1/Mdk04
+
+
+гост р 59795-2021
